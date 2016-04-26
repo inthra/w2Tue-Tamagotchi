@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TamagotchiTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2016-04-26T21:18:02" hostname="epicodus-48.local" time="0.014">
+  <properties/>
+  <testcase name="Tamagotchi_instantiatesCorrectly" classname="TamagotchiTest" time="0.001"/>
+  <testcase name="isAlive_foodBelow1_false" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="state_LifeTime50_child" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="state_LifeTime100_teen" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="tiredLevel_ActivityLevel3_1" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="tiredLevel_ActivityLevel6_2" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="tiredLevel_ActivityLevel9_3" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="growRate_Medium_3" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="isAlive_foodLevelAbove0_true" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="growRate_NotGrow_0" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="timePasses_foodDecreasesByOne_7" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="feed_ActivityLevel_true" classname="TamagotchiTest" time="0.005"/>
+  <testcase name="feed_FoodLevel_true" classname="TamagotchiTest" time="0.004"/>
+  <testcase name="sleep_TiredLevel_true" classname="TamagotchiTest" time="0.002"/>
+  <testcase name="state_LifeTime250_dead" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="growRate_Fast_5" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="state_LifeTime180_adult" classname="TamagotchiTest" time="0.0"/>
+  <testcase name="growRate_Slow_1" classname="TamagotchiTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
